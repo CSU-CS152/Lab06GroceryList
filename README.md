@@ -18,8 +18,8 @@ Your child got upset because you did not read her grocery list correctly, and no
 
 For example, 
 ```python
-timeOut(4) # should return \[4, 3, 2, 1].
-timeOut(2) # should return \[2, 1]
+timeOut(4) # should return [4, 3, 2, 1].
+timeOut(2) # should return [2, 1]
 ```
 # Step Three: Test timeOut(timer)
 How do you test code? You simply add the lines to your python file (in the future, you will have test lines in separate files).
